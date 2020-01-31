@@ -1,0 +1,24 @@
+
+
+
+#lbl {
+    font-size: xx-large;
+    text-align: center ;
+    color : blue;
+    font-weight:  bolder;
+}
+
+
+ #droite{
+    float : right;
+   
+   
+}
+
+
+
+#annonce{
+    text-align: center ;
+    background-color: beige;
+}
+
